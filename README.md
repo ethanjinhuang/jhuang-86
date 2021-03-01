@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**GimHuang/GimHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-Here are some ideas to get you started:
+### I'm Gim Huang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Geomatics Engineering（Marine Surveying and Mapping） Undergraduate Student. & Open Source enthusiast.
+- 🌱 Currently studying in Tsingtao, China.
+- 💬 Ask me about SSP, Sound line, major courses and my projects on [kim.haung.j@qq.com](mailto:kim.huang.j@qq.com)
+- ⚡ Fun fact: Data Analysis📊
+
+### 🛠 技术栈 | Tech Stack
+
+
+### 开源项目
+
+
+### 关于我
+
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [GimHuang](https://github.com/GimHuang)
