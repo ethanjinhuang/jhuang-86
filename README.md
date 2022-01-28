@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GimHuang&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&count_private=true&theme=buefy">
 </a>
 
-### 你好！我是GimHuang
+### 你好！我是JinHuang
 
 - A Geomatics Engineering（Marine Surveying and Mapping） Undergraduate Student. & Open Source enthusiast.
 - > 测绘工程（海洋测绘方向） 在读
