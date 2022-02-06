@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GimHuang&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&count_private=true&theme=buefy">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhuang-86&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&count_private=true&theme=buefy">
 </a>
 
 ### 你好！我是JinHuang
@@ -37,8 +37,8 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GimHuang&langs_count=10&theme=default&layout=compact" 
-[![GimHuang's github stats](https://github-readme-stats.vercel.app/api?username=GimHuang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhuang-86&langs_count=10&theme=default&layout=compact" 
+[![GimHuang's github stats](https://github-readme-stats.vercel.app/api?username=jhuang-86&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
