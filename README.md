@@ -4,11 +4,11 @@
 
 ### 你好！我是JinHuang
 
-- A Geomatics Engineering（Marine Surveying and Mapping） Undergraduate Student. & Open Source enthusiast.
-- > 测绘工程（海洋测绘方向） 在读
-- 🌱 Currently studying in Tsingtao, China.
-- > 目前位于山东青岛
-- 💬 Ask me about SSP, Sound line, major courses and my projects on [kim.haung.j@qq.com](mailto:kim.huang.j@qq.com)
+- Pursuing the Ph.D. degree in ocean technology and engineering at Zhejiang University. & Open Source enthusiast.
+- > 海洋技术与工程 Ph.D 在读
+- 🌱 Currently studying in China.
+- > I love China!
+- 💬 Ask me about my projects on [kim.haung.j@qq.com](mailto:kim.huang.j@qq.com)
 - > 欢迎交流！
 - ⚡ Fun fact: Data Analysis📊、Meachine Learning
 
