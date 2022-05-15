@@ -2,14 +2,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jhuang-86&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&count_private=true&theme=buefy">
 </a>
 
-### 你好！我是JinHuang
+### Hello! JinHuang here!
 
 - Pursuing the Ph.D. degree in ocean technology and engineering at Zhejiang University. & Open Source enthusiast.
-- > 海洋技术与工程 Ph.D 在读
-- 🌱 Currently studying in China.
-- > I love China!
-- 💬 Ask me about my projects on [kim.haung.j@qq.com](mailto:kim.huang.j@qq.com)
-- > 欢迎交流！
+
+- 💬 Ask me about my projects on [ethan.j.huang@foxmail.com](mailto:ethan.j.huang@foxmail.com)
+
 - ⚡ Fun fact: Data Analysis📊、Meachine Learning
 
 
